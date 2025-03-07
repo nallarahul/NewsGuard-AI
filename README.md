@@ -61,9 +61,6 @@ The response format:
 - Improve UI/UX for a better experience
 - Add support for other browsers (Chrome, Edge)
 
-## Contributors
-- **Nalla Rahul** - Developer & Maintainer
-
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
