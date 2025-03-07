@@ -36,7 +36,7 @@ NewsGuard AI is a Firefox extension that helps users detect fake news using a fi
    - **Prediction:** Fake or Real
 
 ## API Integration
-The extension uses an API hosted on Hugging Face Spaces to classify news articles. The API endpoint is:
+The extension uses an API hosted on Render to classify news articles. The API endpoint is:
 ```sh
 https://newsguard-backend.onrender.com/predict
 ```
