@@ -22,7 +22,7 @@ NewsGuard AI is a Firefox extension that helps users detect fake news using a fi
    - Click on "This Firefox" from the left panel.
    - Click "Load Temporary Add-on" and select the `manifest.json` file inside the extension folder.
 
-### Install from Mozilla Add-ons Store (After Submission)
+### Install from Mozilla Add-ons Store
 - Visit [Mozilla Add-ons Store](https://addons.mozilla.org/) and search for **NewsGuard AI**.
 - Click "Add to Firefox" and confirm installation.
 
